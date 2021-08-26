@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rental-assistance-finder/static/css/main.faebe3c6.css",
+    "main.js": "/rental-assistance-finder/static/js/main.js",
+    "main.js.map": "/rental-assistance-finder/static/js/main.js.map",
+    "index.html": "/rental-assistance-finder/index.html",
+    "static/css/main.faebe3c6.css.map": "/rental-assistance-finder/static/css/main.faebe3c6.css.map",
+    "static/js/main.js.LICENSE.txt": "/rental-assistance-finder/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.faebe3c6.css",
+    "static/js/main.js"
+  ]
+}
